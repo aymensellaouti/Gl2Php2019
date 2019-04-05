@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "datatables.net": "^1.10.19",
+    "font-awesome": "^4.7.0"
+  }
+}
